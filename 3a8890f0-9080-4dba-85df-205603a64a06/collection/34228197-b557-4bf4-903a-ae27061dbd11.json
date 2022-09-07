@@ -1,0 +1,1 @@
+{"info":{"_postman_id":"34228197-b557-4bf4-903a-ae27061dbd11","name":"Bookero","schema":"https://schema.getpostman.com/json/collection/v2.1.0/collection.json"},"item":[{"name":"New Request","id":"bba3c3ce-6c9a-4efb-b2cd-abca69eb30cb","protocolProfileBehavior":{"disableBodyPruning":true},"request":{"method":"GET","header":[]},"response":[]}]}
